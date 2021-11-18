@@ -1,4 +1,5 @@
-terraform workspace new dev
+terraform workspace new dev 
+
 terraform workspace new test
 
 
